@@ -9,9 +9,6 @@ function App() {
         <p>
            Hard Workers are Internal Testing
         </p>
-        <p>
-           WECHAT: LUKELU
-        </p>
         <a
           className="App-link"
           href="https://www.linkedin.com/in/lukelu520"
